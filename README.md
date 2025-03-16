@@ -59,6 +59,14 @@ Run cnn_gnn_video.py for object detection in cctv footage
 
 Run new_cnn_gnn.py for object detection in .jpg files
 
+
+## Sample Result  
+Here is a sample output of the moving object detection system:  
+
+![Detected Objects](result.jpg)
+
+
+
 > **Future Enhancements**
 
 Optimization for real-time edge deployment.
